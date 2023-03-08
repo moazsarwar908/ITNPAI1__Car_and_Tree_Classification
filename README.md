@@ -1,3 +1,3 @@
 # ITNPAI1 - Car and Tree Classification
 
-The aim of this repository is to make a classifier which will able to recognize and classify the difference of "cars" and "trees".
+The aim of this repository is to make a classifier which will able to classify the difference of "cars" and "trees".
