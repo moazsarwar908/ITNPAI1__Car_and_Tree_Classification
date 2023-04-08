@@ -1,5 +1,5 @@
 # ITNPAI1 - Car and Tree Classification
-# ![cover](https://user-images.githubusercontent.com/126859290/230741565-3f1de0fa-e916-4ead-bff2-ab01930b06b0.jpg)
+# ![cover](https://user-images.githubusercontent.com/126859290/230741655-ff3e9258-5834-4e01-aa76-f2a44f1c05c9.jpg)
 
 ## Project Details
 
