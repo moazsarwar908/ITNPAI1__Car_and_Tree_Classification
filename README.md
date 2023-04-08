@@ -1,8 +1,8 @@
 # ITNPAI1 - Car and Tree Classification
 
-## Introduction
+## Project Details
 
-The aim project is focused on classifying cars and trees using deep learning.
+The aim project is focused on classifying cars and trees using deep learning. The Project is using a convolutional neural network (CNN) model to classify the images. This type of model is well-suited for image classification tasks due to its ability to learn spatial hierarchies of features.
 
 ## Dataset & Data Processing Details
 
